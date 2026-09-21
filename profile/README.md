@@ -2,12 +2,11 @@
 
 ## Integrantes
 
-Jonas Fernandes  
-Lara Binotti  
-Leonardo Kajio  
-Marcela Fachim  
-Marcus Vinícius  
-Yuri Dairiki  
+Luiz Joaquim
+Marilyn Gabriela
+Nicolas Ferro
+Roberta Karakawa
+Sophia Vieira
 
 ---
 
