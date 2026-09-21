@@ -3,9 +3,13 @@
 ## Integrantes
 
 Luiz Joaquim
+
 Marilyn Gabriela
+
 Nicolas Ferro
+
 Roberta Karakawa
+
 Sophia Vieira
 
 ---
